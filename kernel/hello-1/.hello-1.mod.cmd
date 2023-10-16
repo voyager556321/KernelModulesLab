@@ -1,0 +1,1 @@
+savedcmd_/home/admin/Repositories/KernelModulesLab/kernel/hello-1/hello-1.mod := printf '%s\n'   hello-1.o | awk '!x[$$0]++ { print("/home/admin/Repositories/KernelModulesLab/kernel/hello-1/"$$0) }' > /home/admin/Repositories/KernelModulesLab/kernel/hello-1/hello-1.mod

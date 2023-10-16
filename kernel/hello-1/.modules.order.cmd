@@ -1,0 +1,1 @@
+savedcmd_/home/admin/Repositories/KernelModulesLab/kernel/hello-1/modules.order := {   echo /home/admin/Repositories/KernelModulesLab/kernel/hello-1/hello-1.o; :; } > /home/admin/Repositories/KernelModulesLab/kernel/hello-1/modules.order
